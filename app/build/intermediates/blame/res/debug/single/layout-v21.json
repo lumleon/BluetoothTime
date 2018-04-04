@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/leonlum/.android/build-cache/f33f04ee9cd9ad2085b1fc40d0e82f6c8e369855/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/leonlum/.android/build-cache/f33f04ee9cd9ad2085b1fc40d0e82f6c8e369855/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/leonlum/.android/build-cache/f33f04ee9cd9ad2085b1fc40d0e82f6c8e369855/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/leonlum/.android/build-cache/f33f04ee9cd9ad2085b1fc40d0e82f6c8e369855/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

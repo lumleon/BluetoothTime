@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/leonlum/.android/build-cache/6780a8f22459d335405dc45903e73bcd4b1a9e75/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a08f19ff519171a22a71b7c71c428552f306463/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dc525854ee26861a27d620f98be93b06e6daaef5">
+        <dex dex="/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1799c983a293a6f68bd3e13b26e2c1f86813c5c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leonlum/.android/build-cache/81ac3b477d8d14f6e4e9a8001589c8d584b6f4d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_deeda9d379fa9af1ae9d3505f6d6ccf7b24bdc11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leonlum/Documents/Android.Project/TimeSample/app/libs/lite-ble-0.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0fed56c6ca8a579300f57dea86e68f55178b6707">
+        <dex dex="/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/transforms/dex/debug/folders/1000/2/lite-ble-0.9.2_71b96a909370c3c1c8397a62aefa74d0742810bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leonlum/.android/build-cache/dd34bfc7a605daed701581c0ab4a6751943c643c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c22fc75b9b32fc8c42ab23e6ff143dcaa8c1e10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cf2bed1f98290e8938457e761b485a700efa1f80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leonlum/.android/build-cache/c13cd74b28e1e6a4627f239bddd4013e8c64182f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e71b5ce8c98d637ac7db69c474e2377ecf178aba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leonlum/.android/build-cache/f33f04ee9cd9ad2085b1fc40d0e82f6c8e369855/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_415ad6d56ac5ccd12282976453cb2619eb09af44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leonlum/.android/build-cache/48c9bd77be7c69d84d9e82413c3b619b469efd0d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_023c86b5407c6af35d02ae42756e9f6176703ddf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leonlum/.android/build-cache/1443e393130ea7300e369912dfb6568c9dc1056d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9200616237010307a14e013460b9eb4c1e82a7c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leonlum/.android/build-cache/a3456b4bf84913d932d8760a290be346772d8e91/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d876de45af8cb9470e04fd68edb22163b741204/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leonlum/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_45f70e19f5e974914810069264ae8f82024e9297/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leonlum/.android/build-cache/ea9b38122db95fa7315fe9773f588d8b1829bffd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4bf8543dfd4ded1415348255e96fed2735305673/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leonlum/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_e9d8ca40d619bede844da755c92b6cbd9973d865/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leonlum/.android/build-cache/bb0474fa105af64ce14b265caa42ce9e1ed72332/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_72f25eb704f7ce91142296207b25e790c8354904/classes.dex" />
+    </item>
+
+</items>

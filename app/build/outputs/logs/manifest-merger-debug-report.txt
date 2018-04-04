@@ -1,0 +1,125 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:6:22-71
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:9:22-78
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:11:5-13:35
+	android:required
+		ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:13:9-32
+	android:name
+		ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:12:9-53
+uses-feature#android.hardware.location.gps
+ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:14:19-63
+application
+ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:16:5-36:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/leonlum/.android/build-cache/f33f04ee9cd9ad2085b1fc40d0e82f6c8e369855/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/leonlum/.android/build-cache/1443e393130ea7300e369912dfb6568c9dc1056d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/leonlum/.android/build-cache/c13cd74b28e1e6a4627f239bddd4013e8c64182f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/leonlum/.android/build-cache/ea9b38122db95fa7315fe9773f588d8b1829bffd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/leonlum/.android/build-cache/a3456b4bf84913d932d8760a290be346772d8e91/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/leonlum/.android/build-cache/bb0474fa105af64ce14b265caa42ce9e1ed72332/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/leonlum/.android/build-cache/81ac3b477d8d14f6e4e9a8001589c8d584b6f4d3/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/leonlum/.android/build-cache/dd34bfc7a605daed701581c0ab4a6751943c643c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/leonlum/.android/build-cache/48c9bd77be7c69d84d9e82413c3b619b469efd0d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/leonlum/.android/build-cache/6780a8f22459d335405dc45903e73bcd4b1a9e75/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:17:10-46
+activity#com.anrex.bluetooth.timestation.ui.MainActivity
+ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:20:13-75
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.anrex.bluetooth.timestation.ui.PeripheralControlActivity
+ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:28:9-31:20
+	android:screenOrientation
+		ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:28:19-94
+service#com.anrex.bluetooth.timestation.bluetooth.BleAdapterService
+ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:33:9-34:38
+	android:enabled
+		ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:34:13-35
+	android:name
+		ADDED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml:33:18-92
+uses-sdk
+INJECTED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/leonlum/.android/build-cache/f33f04ee9cd9ad2085b1fc40d0e82f6c8e369855/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/leonlum/.android/build-cache/1443e393130ea7300e369912dfb6568c9dc1056d/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/leonlum/.android/build-cache/c13cd74b28e1e6a4627f239bddd4013e8c64182f/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/leonlum/.android/build-cache/ea9b38122db95fa7315fe9773f588d8b1829bffd/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/leonlum/.android/build-cache/a3456b4bf84913d932d8760a290be346772d8e91/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/leonlum/.android/build-cache/bb0474fa105af64ce14b265caa42ce9e1ed72332/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/leonlum/.android/build-cache/81ac3b477d8d14f6e4e9a8001589c8d584b6f4d3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/leonlum/.android/build-cache/dd34bfc7a605daed701581c0ab4a6751943c643c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/leonlum/.android/build-cache/48c9bd77be7c69d84d9e82413c3b619b469efd0d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/leonlum/.android/build-cache/6780a8f22459d335405dc45903e73bcd4b1a9e75/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/leonlum/.android/build-cache/f33f04ee9cd9ad2085b1fc40d0e82f6c8e369855/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/leonlum/.android/build-cache/f33f04ee9cd9ad2085b1fc40d0e82f6c8e369855/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/leonlum/.android/build-cache/1443e393130ea7300e369912dfb6568c9dc1056d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/leonlum/.android/build-cache/c13cd74b28e1e6a4627f239bddd4013e8c64182f/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/leonlum/.android/build-cache/ea9b38122db95fa7315fe9773f588d8b1829bffd/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/leonlum/.android/build-cache/a3456b4bf84913d932d8760a290be346772d8e91/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/leonlum/.android/build-cache/bb0474fa105af64ce14b265caa42ce9e1ed72332/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/leonlum/.android/build-cache/81ac3b477d8d14f6e4e9a8001589c8d584b6f4d3/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/leonlum/.android/build-cache/dd34bfc7a605daed701581c0ab4a6751943c643c/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/leonlum/.android/build-cache/48c9bd77be7c69d84d9e82413c3b619b469efd0d/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/leonlum/.android/build-cache/f33f04ee9cd9ad2085b1fc40d0e82f6c8e369855/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/leonlum/.android/build-cache/f33f04ee9cd9ad2085b1fc40d0e82f6c8e369855/output/AndroidManifest.xml:26:9-47
