@@ -35,7 +35,7 @@ public class SampleActivity extends Activity {
     private static final String TAG = SampleActivity.class.getSimpleName();
 
     /**
-     * mac和服务uuid纯属测试，测试时请替换真实参数。
+     * mac and uuid are for testing, need to replace with actual value.
      */
     public String UUID_SERVICE = "6e400000-0000-0000-0000-000011112222";
 

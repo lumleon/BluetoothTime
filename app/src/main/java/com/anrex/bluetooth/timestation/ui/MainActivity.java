@@ -46,7 +46,7 @@ public class MainActivity extends Activity implements View.OnClickListener, Scan
 
 
     /**
-     * mac和服务uuid纯属测试，测试时请替换真实参数。
+     * mac and uuid are for testing, need to replace with actual value.
      */
     private static String MAC = "00:15:83:40:72:45";
 
