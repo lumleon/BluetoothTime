@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/leonlum/Documents/Android.Project/TimeSample/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/leonlum/Documents/Android.Project/TimeSample/app/src/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/leonlum/Downloads/3.Android.Bluetooth_Useful/BluetoothTime/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/leonlum/Downloads/3.Android.Bluetooth_Useful/BluetoothTime/app/src/debug/shaders"/></dataSet></merger>

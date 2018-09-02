@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">BlueTooth Timing</string>
+    <string name="app_name">Anrex Timing</string>
     <string name="stop_watch">stop_watch</string>
 
     <string name="screen_title_main">Device List</string>

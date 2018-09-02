@@ -1,4 +1,4 @@
-#Thu Apr 05 00:20:22 NZST 2018
-base.0=/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
+#Mon Sep 03 07:04:52 NZST 2018
+base.0=/Users/leonlum/Downloads/3.Android.Bluetooth_Useful/BluetoothTime/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
 renamed.0=classes.dex
-file.0=/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex
+file.0=/Users/leonlum/Downloads/3.Android.Bluetooth_Useful/BluetoothTime/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex

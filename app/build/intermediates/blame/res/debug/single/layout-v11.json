@@ -1,26 +1,26 @@
 [
     {
-        "merged": "/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
-        "source": "/Users/leonlum/.android/build-cache/f33f04ee9cd9ad2085b1fc40d0e82f6c8e369855/output/res/layout-v11/notification_template_big_media_narrow.xml"
+        "merged": "/Users/leonlum/Downloads/3.Android.Bluetooth_Useful/BluetoothTime/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/leonlum/.android/build-cache/f33f04ee9cd9ad2085b1fc40d0e82f6c8e369855/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
-        "source": "/Users/leonlum/.android/build-cache/f33f04ee9cd9ad2085b1fc40d0e82f6c8e369855/output/res/layout-v11/notification_media_action.xml"
-    },
-    {
-        "merged": "/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
-        "source": "/Users/leonlum/.android/build-cache/f33f04ee9cd9ad2085b1fc40d0e82f6c8e369855/output/res/layout-v11/notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
-        "source": "/Users/leonlum/.android/build-cache/f33f04ee9cd9ad2085b1fc40d0e82f6c8e369855/output/res/layout-v11/notification_template_big_media.xml"
-    },
-    {
-        "merged": "/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "merged": "/Users/leonlum/Downloads/3.Android.Bluetooth_Useful/BluetoothTime/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
         "source": "/Users/leonlum/.android/build-cache/f33f04ee9cd9ad2085b1fc40d0e82f6c8e369855/output/res/layout-v11/notification_template_big_media_custom.xml"
     },
     {
-        "merged": "/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
-        "source": "/Users/leonlum/.android/build-cache/f33f04ee9cd9ad2085b1fc40d0e82f6c8e369855/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+        "merged": "/Users/leonlum/Downloads/3.Android.Bluetooth_Useful/BluetoothTime/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/leonlum/.android/build-cache/f33f04ee9cd9ad2085b1fc40d0e82f6c8e369855/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/leonlum/Downloads/3.Android.Bluetooth_Useful/BluetoothTime/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/leonlum/.android/build-cache/f33f04ee9cd9ad2085b1fc40d0e82f6c8e369855/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/leonlum/Downloads/3.Android.Bluetooth_Useful/BluetoothTime/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/leonlum/.android/build-cache/f33f04ee9cd9ad2085b1fc40d0e82f6c8e369855/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/leonlum/Downloads/3.Android.Bluetooth_Useful/BluetoothTime/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/leonlum/.android/build-cache/f33f04ee9cd9ad2085b1fc40d0e82f6c8e369855/output/res/layout-v11/notification_media_cancel_action.xml"
     }
 ]

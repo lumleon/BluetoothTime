@@ -50,7 +50,6 @@ public class StringUtils {
     }
 
     /**
-     * ��ȡָ�����������ַ�һ�����ĳ���Ϊ2��Ӣ���ַ�ȣ�
      *
      * @param str
      * @param subLength

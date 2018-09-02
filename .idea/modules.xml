@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TimeSample.iml" filepath="$PROJECT_DIR$/TimeSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BluetoothTime.iml" filepath="$PROJECT_DIR$/BluetoothTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

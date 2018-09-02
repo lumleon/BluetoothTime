@@ -1,7 +1,7 @@
-#Thu Apr 05 00:20:48 NZST 2018
-base.0=/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cf2bed1f98290e8938457e761b485a700efa1f80
+#Mon Sep 03 07:04:52 NZST 2018
+base.0=/Users/leonlum/Downloads/3.Android.Bluetooth_Useful/BluetoothTime/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ed9f1c79f962bc4b1ed8932f2231c2dbb1b960fe
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1799c983a293a6f68bd3e13b26e2c1f86813c5c2/classes.dex
-base.1=/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1799c983a293a6f68bd3e13b26e2c1f86813c5c2
-file.0=/Users/leonlum/Documents/Android.Project/TimeSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cf2bed1f98290e8938457e761b485a700efa1f80/classes.dex
+file.1=/Users/leonlum/Downloads/3.Android.Bluetooth_Useful/BluetoothTime/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fc890dddf6a0447910bd51f0306614619d610de9/classes.dex
+base.1=/Users/leonlum/Downloads/3.Android.Bluetooth_Useful/BluetoothTime/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fc890dddf6a0447910bd51f0306614619d610de9
+file.0=/Users/leonlum/Downloads/3.Android.Bluetooth_Useful/BluetoothTime/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ed9f1c79f962bc4b1ed8932f2231c2dbb1b960fe/classes.dex
