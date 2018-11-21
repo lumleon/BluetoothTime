@@ -1,4 +1,4 @@
 # BluetoothTiming
 
 
-![Image](..bleSample.png?raw=true)
+![Image](bleSample.png?raw=true)
